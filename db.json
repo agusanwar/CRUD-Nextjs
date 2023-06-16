@@ -20,5 +20,43 @@
       "price": 440000,
       "id": 4
     }
+  ],
+  "mambers": [
+    {
+      "id": 1,
+      "name": "mamber1",
+      "product_name": "T-shirt",
+      "size": "L",
+      "quantity": 1,
+      "price": 110000,
+      "status": "Ready"
+    },
+    {
+      "id": 2,
+      "name": "mamber2",
+      "product_name": "Minyak Wangi",
+      "size": "M",
+      "quantity": 1,
+      "price": 100000,
+      "status": "Ready"
+    },
+    {
+      "name": "T Shirt Edision 3",
+      "product_name": "Tshirt Edition 3",
+      "size": "XXL",
+      "quantity": "1",
+      "price": "110000",
+      "status": "PO",
+      "id": 3
+    },
+    {
+      "name": "Dede Setiawan",
+      "product_name": "Tshirt Edition 3",
+      "size": "XXL",
+      "quantity": "1",
+      "price": "110000",
+      "status": "PO",
+      "id": 4
+    }
   ]
 }
